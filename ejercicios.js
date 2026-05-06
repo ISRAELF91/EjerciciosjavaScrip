@@ -1,6 +1,6 @@
 // --- Ejercicio 1: Declarar una variable nombre y mostrarla ---
 console.log("--- Ejercicio 1 ---");
-let nombre = "Sheyla";
+let nombre = "Israel Quispitupa Ccama";
 console.log(nombre);
 
 // --- Ejercicio 2: Declarar dos variables a y b y mostrar su suma ---
